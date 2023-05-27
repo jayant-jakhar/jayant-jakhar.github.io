@@ -325,7 +325,7 @@ body {
                 position: absolute;
                 width: 100%;
                 margin: 0%;
-                padding: 70px 15px 0px 15px;
+                padding: 25px 15px 0px 15px;
              } 
   
   
@@ -407,7 +407,7 @@ body {
             
             .my-name {
               padding-bottom: 15px;
-              font-size: 30px;
+              font-size: 40px;
             }
 
             .darkmode--activated .my-name {
