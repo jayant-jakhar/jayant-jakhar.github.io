@@ -43,7 +43,7 @@ body {
       color: #000000;
   }
   
-  .my-info {
+  .my-info, .my-info2 {
       padding-top: 40px;
       font-family: 'Manrope', sans-serif;
       font-style: normal;
@@ -320,7 +320,6 @@ body {
         @media only screen and (max-width: 768px) {
             /* For mobile phones: */
             
-
             .show {
                 position: absolute;
                 width: 100%;
@@ -417,7 +416,7 @@ body {
               }
             
             
-            .my-info {
+            .my-info .my-info2 {
               padding-top: 40px;
               font-family: 'Manrope', sans-serif;
               font-style: normal;
