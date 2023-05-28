@@ -43,7 +43,7 @@ body {
       color: #000000;
   }
   
-  .my-info, .my-info2 {
+  .my-info {
       padding-top: 40px;
       font-family: 'Manrope', sans-serif;
       font-style: normal;
@@ -52,9 +52,21 @@ body {
       line-height: 1.6em;
       letter-spacing: 1.2px;
       color: #414040;
-      /* text-align: center; */
-      text-align: start;
+      text-align: center;
+      /* text-align: start; */
   
+  }
+
+  .my-info2 {
+       padding-top: 40px;
+       font-family: 'Manrope', sans-serif;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.6em;
+       letter-spacing: 1.2px;
+       color: #414040;
+       text-align: center;
   }
   
   
@@ -416,7 +428,7 @@ body {
               }
             
             
-            .my-info .my-info2 {
+            .my-info {
               padding-top: 40px;
               font-family: 'Manrope', sans-serif;
               font-style: normal;
@@ -427,6 +439,18 @@ body {
               color: #414040;
               text-align: center;
             
+            }
+
+            .my-info2 {
+                padding-top: 50px;
+                font-family: 'poppins', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.6em;
+                letter-spacing: 1.2px;
+                color: #414040;
+                text-align: center;
             }
             
             
